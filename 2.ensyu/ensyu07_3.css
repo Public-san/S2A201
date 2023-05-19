@@ -1,0 +1,17 @@
+/* 作成日：2023/05/08 */
+/* 作成者：會田 一亮 */
+@charset "UTF-8";
+
+table {
+  font-size: 1.2rem;
+}
+table tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+th {
+  padding: 10px;
+  text-align: left;
+}
+td {
+  padding: 10px
+}
